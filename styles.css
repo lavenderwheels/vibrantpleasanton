@@ -38,10 +38,3 @@
 @media(min-width:651px){#events .section-head{justify-content:flex-start;gap:48px}#events .section-head>p{flex:0 1 355px}}
 
 .mailing-list{padding-bottom:26px;margin-bottom:26px;border-bottom:1px solid #c4d1b3}.mailing-list h3{margin-bottom:12px}.mailing-list>p:not(.form-note){font-size:15px;margin-bottom:18px;max-width:340px}
-
-.vision {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
-}
